@@ -27,6 +27,13 @@ Columns
 - **In Progress**: For tasks that are currently being worked
 - **Complete**: For tasks that are done and merged
 
+Sorting
+----
+
+Items in the **Backlog** column are roughly sorted with higher priority items at the top.
+
+Items in the **Up Next** and **In Progress** columns are sorted exactly by priority with the highest priority items at the top.  When you're working your list of assigned items, you should work from top to bottom.
+
 Creating Issues
 -----
 
