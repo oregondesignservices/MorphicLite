@@ -14,3 +14,6 @@ This is a list of present and future needs for Continuous Integration (CI), Cont
 - [ ] server-side security scanning
   - [ ] TLS
   - [ ] ???
+- [ ] Create, implement, test disaster recovery plans for...
+  - [ ] Mongo atlas
+  - [ ] kubernetes becoming unavailable
